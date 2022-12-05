@@ -17,3 +17,4 @@ This approach makes almost exclusive use of three.js. I use the geometry functio
 
 # Future development
 This project needs further optimization; firstly, I will add a richer background effect, like a sky box or some view in the Universe. Secondly, I will add a profile for each planet so that the profile of the corresponding planet will appear when the mouse is moved over the planet. Finally, I would add a piece of music to the whole scene.
+# Vedio link: https://youtu.be/t0AoEPiFOd0
