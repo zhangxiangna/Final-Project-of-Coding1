@@ -1,1 +1,2 @@
-# Final-Project-of-Coding1
+# Project Description
+This final project was to visualize the revolution and rotation of the solar system's nine planets, with some particles attached as a background. This project combines what I learned in weeks 6 and 7 and some expansions. The motivation for this project was that through my learning of three.js, I thought it was a very powerful platform that would allow us to quickly create a 3D world. Astronomy has always been a very interesting part of my life. So I just wanted to make a solar system, and I was the creator of this 3D world.
